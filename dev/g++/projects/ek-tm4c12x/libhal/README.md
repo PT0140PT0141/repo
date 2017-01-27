@@ -65,7 +65,7 @@ It provides the followings features (http://www.ti.com/tool/BOOSTXL-EDUMKII):
     * Microphone
     * 2-Axis Joystick with Pushbutton
 
-See http://www.ti.com/tool/BOOSTXL-EDUMKII for BoosterPacks compatibiliy.
+See https://dev.ti.com/bpchecker/#/ for get pin mapping between the BoosterPacks and the TIVA board.
 
 TODO Continue
 
